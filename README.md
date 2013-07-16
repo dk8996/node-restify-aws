@@ -17,3 +17,14 @@ Install RESTify
 ```shell
 npm install restify
 ```
+
+Install AWS-SDK for Node.js
+```shell
+npm install aws-sdk
+```
+
+Create credentails.json 
+
+```json
+{"accessKeyId":"XXXXXXX","secretAccessKey":"XXXXX"}
+```
